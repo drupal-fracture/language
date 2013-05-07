@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\language\Plugin\block\block\LanguageBlock.
+ * Contains \Drupal\language\Plugin\Block\LanguageBlock.
  */
 
-namespace Drupal\language\Plugin\block\block;
+namespace Drupal\language\Plugin\Block;
 
 use Drupal\block\BlockBase;
 use Drupal\Component\Annotation\Plugin;

@@ -2,10 +2,10 @@
 
 /**
  * @file
- * Contains \Drupal\language\Plugin\Core\Condition\Language.
+ * Contains \Drupal\language\Plugin\Condition\Language.
  */
 
-namespace Drupal\language\Plugin\Core\Condition;
+namespace Drupal\language\Plugin\Condition;
 
 use Drupal\Core\Condition\ConditionPluginBase;
 use Drupal\Component\Annotation\Plugin;
